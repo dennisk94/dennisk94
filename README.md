@@ -1,4 +1,4 @@
-# Hi, I'm Dennis Kim 👋
+# Hi, I'm Bomju Kim 👋
 A front-end developer based in Vancouver, Canada.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dennisk94&show_icons=true&theme=tokyonight&hide=stars"/>
