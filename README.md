@@ -1,4 +1,4 @@
-# Hi, I'm Bomju Kim 👋
+# Hi, I'm Bomju "BK" Kim 👋
 A front-end developer based in Toronto, Canada.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dennisk94&show_icons=true&theme=tokyonight&hide=stars"/>
